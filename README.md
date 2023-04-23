@@ -1,7 +1,7 @@
 
 # Project for online course «Cat Energy»
 
-* Course site: [htmlcss](https://htmlacademy.ru/intensive/adaptive)
+* Course site: [adaptive](https://htmlacademy.ru/intensive/adaptive)
 * Certificate: [pdf](https://t.ly/sYl1u)
 
 
